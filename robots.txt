@@ -1,3 +1,3 @@
 User-agent:*
 Allow: /
-Disallow: /about.html
+Disallow: /portfolio2.0/about.html
